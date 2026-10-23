@@ -1,5 +1,5 @@
 {
-  "purpose": "Living Index revision 04; glyph-local contrast and battery states",
-  "source_commit": "9d551b707cb28677575c635655b98049de960888",
-  "built_at": "2026-10-23T17:43:46.8337916Z"
+  "purpose": "Living Index revision 05; adaptive zero-to-four complication layout",
+  "source_commit": "466e235950e8d52b7e8ad63cb2ae8ae207555624",
+  "built_at": "2026-10-23T17:48:31.0729478Z"
 }
